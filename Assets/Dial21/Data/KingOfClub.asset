@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: KingOfClub
   m_EditorClassIdentifier: 
   CardSprite: {fileID: 21300000, guid: 852c6f473ffb3724084993337b0fe3d8, type: 3}
-  CardValue: 0
+  CardValue: 4

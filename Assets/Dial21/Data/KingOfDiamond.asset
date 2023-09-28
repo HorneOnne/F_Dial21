@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: KingOfDiamond
   m_EditorClassIdentifier: 
   CardSprite: {fileID: 21300000, guid: 29b0ad14654782b499c99859150ac918, type: 3}
-  CardValue: 0
+  CardValue: 4

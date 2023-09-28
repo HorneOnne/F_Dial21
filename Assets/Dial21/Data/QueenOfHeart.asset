@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: QueenOfHeart
   m_EditorClassIdentifier: 
   CardSprite: {fileID: 21300000, guid: cbf5731fd7c0fc94892e22ebc2af03de, type: 3}
-  CardValue: 0
+  CardValue: 3

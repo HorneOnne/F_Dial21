@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: QueenOfClub
   m_EditorClassIdentifier: 
   CardSprite: {fileID: 21300000, guid: 7076420935f4b034b868d00236da7f65, type: 3}
-  CardValue: 0
+  CardValue: 3

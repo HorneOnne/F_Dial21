@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: JackOfHeart
   m_EditorClassIdentifier: 
   CardSprite: {fileID: 21300000, guid: ded640b2c1604ef438dffcd5b24cccf3, type: 3}
-  CardValue: 0
+  CardValue: 2
